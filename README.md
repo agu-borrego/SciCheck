@@ -1,5 +1,5 @@
 # SciCheck
-Source code for SciCheck, a tool for scientific fact checking in Knowledge Graphs. Currently under review in FGCS.
+Source code for SciCheck, a tool for scientific fact checking in Knowledge Graphs.
 
 # How to run SciCheck
 - Configure `settings.py` to set whether to use a directional graph or not, and the sentence embedding model to use.
